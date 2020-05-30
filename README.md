@@ -2,8 +2,8 @@
 JSFML for Java
 
 # SFML
-Ans: SFML?
-Qes: [wikipedia](https://en.wikipedia.org/wiki/Simple_and_Fast_Multimedia_Library)
+A: SFML?<br/>
+Q: [wikipedia](https://en.wikipedia.org/wiki/Simple_and_Fast_Multimedia_Library)
 
 # Link tutorial
 |Library C++|Library Java|Build app|Java JDK|IDE|
